@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A Food-Delivery-App where u buy and order food to your current location"
   }
 }
